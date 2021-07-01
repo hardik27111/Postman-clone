@@ -1,0 +1,27 @@
+
+project-todo
+test.txt
+test1.txt - change
+test2.txt
+newfolder/test2.txt(master)
+
+checkout master
+pull master
+
+checkout new-feature
+test.txt
+test1.txt - change
+test2.txt
+newfolder/test2.txt
+
+
+commit 
+push
+
+project
+
+project
+test1.txt
+newfolder/text2.txt
+
+
